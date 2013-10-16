@@ -2,9 +2,13 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
+ - jonatantj12
+ - ekki fleiri...
+
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk aðX  setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
+[logo]: (ubuntu-vbox.jpg)
 
 ## 2. Uppsetning á vim && git
 
