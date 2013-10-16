@@ -8,7 +8,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 ## 1. Linux uppsetning
 
 This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
-[logo]: (https://github.com/xnatti/INTOmarkdown/blob/master/ubuntu-vbox.jpg)
+[logo]: (https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg)
 
 ## 2. Uppsetning á vim && git
 
