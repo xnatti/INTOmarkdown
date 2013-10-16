@@ -24,7 +24,7 @@ Gekk vel ad forka verkefnid, er einn i hop, tannig ad tad reyndi ekki alveg a ad
 
 Herna [er forkid af NM](https://github.com/xnatti/INTOPrufa/)
 
-(Eg laerdi eflaust meira a tvi ad fa tessa mynd til ad virka....)
+###### Eg laerdi eflaust meira a tvi ad fa tessa mynd til ad virka...
 
 ## 4. Uppsettur hugbúnaður
 
