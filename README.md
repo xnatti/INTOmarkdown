@@ -8,8 +8,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 ## 1. Linux uppsetning
 
 This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
+
 [logo]: (https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg)
-HERNA a ad vera mynd...
+
 
 ## 2. Uppsetning á vim && git
 
@@ -49,4 +50,5 @@ Herna [er forkid af NM](https://github.com/xnatti/INTOPrufa/)
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+
 OK, flott, komid. :)
