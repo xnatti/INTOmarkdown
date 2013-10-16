@@ -11,7 +11,7 @@ This went... ok. Virtualbox kills my computer when I run it, not a big fan of th
 
 The boot process was too quick to take a picture, but here's a picture of the login screen...
 
-![logo](https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg "Boot")
+![logo](ubuntu-vbox.jpg "Boot")
 
 
 ## 2. Uppsetning á vim && git
