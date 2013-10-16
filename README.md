@@ -9,7 +9,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
 
-[logo]: (https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg)
+The boot process was too quick to take a picture, but here's a picture of the login screen...
+
+![logo](https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg "Boot")
 
 
 ## 2. Uppsetning á vim && git
@@ -21,6 +23,8 @@ Gekk vel ad setja tolin upp...
 Gekk vel ad forka verkefnid, er einn i hop, tannig ad tad reyndi ekki alveg a ad lata marga gera breytingar...
 
 Herna [er forkid af NM](https://github.com/xnatti/INTOPrufa/)
+
+(Eg laerdi eflaust meira a tvi ad fa tessa mynd til ad virka....)
 
 ## 4. Uppsettur hugbúnaður
 
