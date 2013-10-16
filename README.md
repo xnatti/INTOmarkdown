@@ -24,12 +24,17 @@ Herna [er forkid af NM](https://github.com/xnatti/INTOPrufa/)
 ## 4. Uppsettur hugbúnaður
 
 * wireshark
+
 	> SourceCode: http://anonsvn.wireshark.org/viewvc/releases/wireshark-1.8.9/
 	> License: GNU GPLv2
+
 * GIMP
+
 	> SourceCode: ftp://ftp.gimp.org/pub/gimp/v2.8/
 	> License:  (L)GPLv3+
+
 * Code::Blocks
+
 	> SourceCode: http://www.codeblocks.org/downloads/25
 	> License: GPL v3.0
 
