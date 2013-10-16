@@ -9,16 +9,17 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
 [logo]: (https://raw.github.com/xnatti/INTOmarkdown/master/ubuntu-vbox.jpg)
+HERNA a ad vera mynd...
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Gekk vel ad setja tolin upp... 
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Gekk vel ad forka verkefnid, er einn i hop, tannig ad tad reyndi ekki alveg a ad lata marga gera breytingar...
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Herna [er forkid af NM](https://github.com/xnatti/INTOPrufa/)
 
 ## 4. Uppsettur hugbúnaður
 
