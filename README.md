@@ -7,7 +7,8 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 ## 1. Linux uppsetning
 
-This went... ok. Virtualbox kills my computer when I run it, not a big fan of that one, but as soon as I could install openssh-server and just ssh to the machine, it was usable.
+This went... ok. Virtualbox kills my computer when I run it, (I expected as much, been experiencing troubles lately), but as soon as I could install openssh-server and just ssh to the machine, it was usable.
+Everything was done via ssh after the install.
 
 The boot process was too quick to take a picture, but here's a picture of the login screen...
 
